@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "react": "16.9.0",
-    "react-native": "0.61.4",
+    "react-native": "0.62.3",
     "react-realm-context": "^0.3.0",
     "realm": "^3.4.2"
   },
